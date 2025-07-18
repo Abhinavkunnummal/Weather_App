@@ -1,78 +1,78 @@
-Weather App - Real Time Weather Platform
-----------------------------------------
-Weather App is a modern, full-featured weather information platform designed for anyone who wants real-time weather updates for any city. Built using HTML, CSS, and JavaScript, the app fetches current weather data from a public API and displays it in a user-friendly, responsive interface.
+🌦️ Weather App - Real-Time Weather Platform
+Note: This project is under active development. Features and documentation will be updated as the project evolves.
+
+A modern, user-friendly weather application that fetches real-time weather data for any city in the world using a public weather API.
 
 📁 Project Structure
-text
+bash
+Copy
+Edit
 Weather_App/
-├── index.html         # Main HTML file
-├── style.css          # Styling and layout
-├── script.js          # App logic and API calls
-├── images/            # Visual assets and icons
-└── README.md
-
+├── index.html       # Main HTML file
+├── style.css        # App styling and layout
+├── script.js        # Core logic and API calls
+├── images/          # Icons and screenshots
+└── README.md        # Project documentation
 🚀 Getting Started
 1. Clone the Repository
 bash
+Copy
+Edit
 git clone https://github.com/Abhinavkunnummal/Weather_App.git
 cd Weather_App
 2. Run the Application
 Open index.html in your browser to launch the app.
 
 🌟 Features
-Search weather for any city worldwide
-
-Displays city name, temperature, icons, weather description, humidity, and wind speed
-
-Responsive, mobile-friendly design
-
-Intuitive UI with real-time updates
-
-Input validation with friendly error messages
+✅ Search weather for any city worldwide
+✅ Displays temperature, humidity, wind speed, and weather conditions
+✅ Responsive and mobile-friendly design
+✅ User-friendly UI with input validation and real-time updates
+✅ Clean error handling and intuitive messages
 
 ⚒️ Tech Stack
 Technology	Description
 HTML	Page structure
 CSS	Styling & layout
-JavaScript	Weather API integration
+JavaScript	API integration & logic
+
 🖼️ Preview
+Add a screenshot here for better visualization.
 
-
-<img width="467" height="554" alt="image" src="https://github.com/user-attachments/assets/e693d010-15a3-46ed-9207-b5dbb4387551" />
-
-
-
-
-
-
+html
+Copy
+Edit
+<img src="images/screenshot.png" alt="Weather App Screenshot" width="500">
 💻 Usage
-Type the name of the city in the input box.
+Type a city name in the search bar.
 
-Hit the search button.
+Click the Search button.
 
-Instantly view up-to-date weather data.
+View live weather data instantly!
 
-🧩 Folder Contents
-File/Folder	Purpose
-index.html	Main web page
-style.css	App styling and layout
-script.js	Fetching and rendering weather
-images/	Icons/screenshots
 🛠️ Customization
-To use a different weather API, update the relevant API call in script.js.
+To change the weather API: Update the API endpoint in script.js.
 
-UI tweaks or theme customization can be done in style.css.
+Modify layout/themes: Edit styles in style.css.
 
-Want extended forecasts or dark mode? Enhance the logic and styling as needed!
+Add features like dark mode, 7-day forecast, or location auto-detect as needed.
 
 🤝 Contributing
-Interested in improving the app? Feel free to fork the repository, raise issues, or submit pull requests. All contributions are appreciated!
+We welcome contributions!
+If you want to enhance the app, feel free to:
+
+Fork the repo
+
+Make changes
+
+Submit a pull request
 
 📄 License
 Licensed under the MIT License.
 
 🙏 Acknowledgements
-Weather data provided by OpenWeatherMap (or preferred weather API).
+Weather data provided by OpenWeatherMap.
 
 👤 Author
 Abhinav Kunnummal
+
