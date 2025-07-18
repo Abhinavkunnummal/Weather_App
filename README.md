@@ -75,4 +75,3 @@ Weather data provided by OpenWeatherMap.
 
 👤 Author
 Abhinav Kunnummal
-
