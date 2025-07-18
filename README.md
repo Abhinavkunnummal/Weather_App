@@ -1,7 +1,8 @@
 Weather App
 Live Demo: Weather App
 
-<img width="1349" height="610" alt="image" src="https://github.com/user-attachments/assets/192a43f2-29d9-4735-b618-33020895406d" />
+<img width="467" height="554" alt="image" src="https://github.com/user-attachments/assets/e693d010-15a3-46ed-9207-b5dbb4387551" />
+
 
 Overview
 This is a simple and user-friendly Weather App built using JavaScript, HTML, and CSS. It allows users to search for any city and instantly view the current weather conditions, including temperature, weather description, icon, humidity, and wind speed. This project demonstrates how to fetch data from a weather API and display it in an appealing format.
