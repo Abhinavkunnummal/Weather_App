@@ -1,34 +1,9 @@
-
 Weather App
-Live Demo
+![Weather App Banner](https://raw.githubusercontent.com/Abhinavkunnummal/Weather_App/master/images/banner](https://img.shields.io/badge/View-Live_App-00c2ff?style=for-the-badge&logo](https://img.shields.io/badge/License-MIT-green?style 🌦️ Overview
 
-🚀 Overview
-Weather App is a fast, sleek, and user-friendly web application for checking real-time weather conditions in any city. Built with JavaScript, HTML, and CSS, the app fetches data from a weather API and displays it in a clean, modern interface. Instantly view current temperature, weather icons, descriptions, humidity, and wind speed—all in one glance.
+Weather App is a modern, responsive, and user-friendly web app to instantly check real-time weather conditions for any city worldwide. Effortlessly view current temperature, humidity, wind speed, and weather icons via a crisp, interactive interface. Built with vanilla JavaScript, HTML, and CSS, this app uses live API data to ensure always up-to-date forecasts.
 
-✨ Features
-🌍 Search weather by city name
-
-🌡️ See current temperature
-
-☁️ Weather icon & textual description
-
-💧 Humidity percentage
-
-🌬️ Wind speed
-
-📱 Clean, fully responsive UI
-
-🛠️ Error handling for invalid input
-
-📸 Preview
-Add a screenshot or GIF here for a live preview of your app’s interface.
-
-text
-<img width="467" height="554" alt="image" src="https://github.com/user-attachments/assets/e693d010-15a3-46ed-9207-b5dbb4387551" />
-
-📂 Table of Contents
-Overview
-
+🚩 Table of Contents
 Features
 
 Preview
@@ -51,55 +26,81 @@ Acknowledgements
 
 Author
 
-🛠️ Tech Stack
-Technology	Purpose
-HTML	Webpage structure
-CSS	Styling & responsive layout
-JavaScript	Logic, API calls, integrations
-🚦 Getting Started
-Prerequisites
-Modern web browser (Chrome, Firefox, Edge, etc.)
+✨ Features
+🌍 Search for weather by city name
 
-(For local setup): Optional—Node.js and any code editor
+🌡️ Real-time temperature display (°C/°F)
+
+☁️ Weather icon & text description
+
+💧 Current humidity
+
+🌬️ Wind speed status
+
+🎨 Clean, mobile-first UI
+
+⛑️ Error messages for invalid input/city
+
+🔄 Responsive design for all screens
+
+📸 Preview
+Add your app screenshots or a GIF below—this helps visitors instantly see what to expect!
+
+Example:
+<img width="467" height="554" alt="image" src="https://github.com/user-attachments/assets/e693d010-15a3-46ed-9207-b5dbb4387551" />
+
+🚀 Tech Stack
+Technology	Purpose
+HTML5	Structure
+CSS3	Styling & Responsiveness
+JavaScript	Logic, API Integration
+📝 Getting Started
+Prerequisites
+Modern web browser (Chrome, Edge, Firefox, etc.)
+
+(Optional) Code editor for local use
 
 Installation
-Clone the Repository
+Clone this repository:
 
 bash
 git clone https://github.com/Abhinavkunnummal/Weather_App.git
-Navigate to the Project Folder
+Navigate to project directory:
 
 bash
 cd Weather_App
-Open index.html
+Open index.html in your browser.
 
-Double-click index.html to view the app in your browser.
+💡 Usage
+Type the city name in the search box.
 
-📖 Usage
-Enter the name of any city in the search field.
+Click the search button.
 
-Click the search/submit button.
-
-Instantly see the current weather details for that city.
+Instantly view live weather data for your city of choice.
 
 🗂️ Folder Structure
-File/Folder	Description
+Item	Description
 index.html	Main HTML file
-style.css	All styles for UI
-images/	Visual assets/icons/screenshots
-🛠️ Customization
-To change the weather API or add extra features (like a 5-day forecast), enhance the JS logic in index.html.
+style.css	App styles
+script.js	Weather app logic/API calls
+images/	Visual assets and app previews
+🎨 Customization
+To use a different API or add new weather metrics, update the relevant code in script.js.
 
-For different UI themes, update style.css.
+Modify style.css to customize UI colors, fonts, or layout.
+
+Want advanced features? Add a forecast view, themes, or notifications!
 
 🤝 Contributing
-Contributions are welcome! Please open an issue to discuss changes before submitting a PR.
+Have an idea or improvement? Open a pull request or start a discussion first! All contributions are welcome.
 
-⚖️ License
-This project is distributed under the MIT License.
+⚖ License
+Distributed under the MIT License.
 
 🙏 Acknowledgements
-Weather data provided by OpenWeatherMap or your chosen weather API.
+Weather data: OpenWeatherMap
+
+README inspiration: Community best README practices
 
 👤 Author
 Abhinav Kunnummal
