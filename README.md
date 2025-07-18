@@ -1,106 +1,78 @@
-Weather App
-![Weather App Banner](https://raw.githubusercontent.com/Abhinavkunnummal/Weather_App/master/images/banner](https://img.shields.io/badge/View-Live_App-00c2ff?style=for-the-badge&logo](https://img.shields.io/badge/License-MIT-green?style 🌦️ Overview
+Weather App - Real Time Weather Platform
+----------------------------------------
+Weather App is a modern, full-featured weather information platform designed for anyone who wants real-time weather updates for any city. Built using HTML, CSS, and JavaScript, the app fetches current weather data from a public API and displays it in a user-friendly, responsive interface.
 
-Weather App is a modern, responsive, and user-friendly web app to instantly check real-time weather conditions for any city worldwide. Effortlessly view current temperature, humidity, wind speed, and weather icons via a crisp, interactive interface. Built with vanilla JavaScript, HTML, and CSS, this app uses live API data to ensure always up-to-date forecasts.
+📁 Project Structure
+text
+Weather_App/
+├── index.html         # Main HTML file
+├── style.css          # Styling and layout
+├── script.js          # App logic and API calls
+├── images/            # Visual assets and icons
+└── README.md
 
-🚩 Table of Contents
-Features
-
-Preview
-
-Tech Stack
-
-Getting Started
-
-Usage
-
-Folder Structure
-
-Customization
-
-Contributing
-
-License
-
-Acknowledgements
-
-Author
-
-✨ Features
-🌍 Search for weather by city name
-
-🌡️ Real-time temperature display (°C/°F)
-
-☁️ Weather icon & text description
-
-💧 Current humidity
-
-🌬️ Wind speed status
-
-🎨 Clean, mobile-first UI
-
-⛑️ Error messages for invalid input/city
-
-🔄 Responsive design for all screens
-
-📸 Preview
-Add your app screenshots or a GIF below—this helps visitors instantly see what to expect!
-
-Example:
-<img width="467" height="554" alt="image" src="https://github.com/user-attachments/assets/e693d010-15a3-46ed-9207-b5dbb4387551" />
-
-🚀 Tech Stack
-Technology	Purpose
-HTML5	Structure
-CSS3	Styling & Responsiveness
-JavaScript	Logic, API Integration
-📝 Getting Started
-Prerequisites
-Modern web browser (Chrome, Edge, Firefox, etc.)
-
-(Optional) Code editor for local use
-
-Installation
-Clone this repository:
-
+🚀 Getting Started
+1. Clone the Repository
 bash
 git clone https://github.com/Abhinavkunnummal/Weather_App.git
-Navigate to project directory:
-
-bash
 cd Weather_App
-Open index.html in your browser.
+2. Run the Application
+Open index.html in your browser to launch the app.
 
-💡 Usage
-Type the city name in the search box.
+🌟 Features
+Search weather for any city worldwide
 
-Click the search button.
+Displays city name, temperature, icons, weather description, humidity, and wind speed
 
-Instantly view live weather data for your city of choice.
+Responsive, mobile-friendly design
 
-🗂️ Folder Structure
-Item	Description
-index.html	Main HTML file
-style.css	App styles
-script.js	Weather app logic/API calls
-images/	Visual assets and app previews
-🎨 Customization
-To use a different API or add new weather metrics, update the relevant code in script.js.
+Intuitive UI with real-time updates
 
-Modify style.css to customize UI colors, fonts, or layout.
+Input validation with friendly error messages
 
-Want advanced features? Add a forecast view, themes, or notifications!
+⚒️ Tech Stack
+Technology	Description
+HTML	Page structure
+CSS	Styling & layout
+JavaScript	Weather API integration
+🖼️ Preview
+
+
+<img width="467" height="554" alt="image" src="https://github.com/user-attachments/assets/e693d010-15a3-46ed-9207-b5dbb4387551" />
+
+
+
+
+
+
+💻 Usage
+Type the name of the city in the input box.
+
+Hit the search button.
+
+Instantly view up-to-date weather data.
+
+🧩 Folder Contents
+File/Folder	Purpose
+index.html	Main web page
+style.css	App styling and layout
+script.js	Fetching and rendering weather
+images/	Icons/screenshots
+🛠️ Customization
+To use a different weather API, update the relevant API call in script.js.
+
+UI tweaks or theme customization can be done in style.css.
+
+Want extended forecasts or dark mode? Enhance the logic and styling as needed!
 
 🤝 Contributing
-Have an idea or improvement? Open a pull request or start a discussion first! All contributions are welcome.
+Interested in improving the app? Feel free to fork the repository, raise issues, or submit pull requests. All contributions are appreciated!
 
-⚖ License
-Distributed under the MIT License.
+📄 License
+Licensed under the MIT License.
 
 🙏 Acknowledgements
-Weather data: OpenWeatherMap
-
-README inspiration: Community best README practices
+Weather data provided by OpenWeatherMap (or preferred weather API).
 
 👤 Author
 Abhinav Kunnummal
